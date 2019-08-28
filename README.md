@@ -12,3 +12,5 @@ export FLASK_ENV=development
 
 flask run
 
+Access at localhost:5000
+
